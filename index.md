@@ -1,14 +1,5 @@
-[About me](about.md) 
-[My blog](blog.md)
+[FTC](FTC.md) 
+[About us](about us.md)
+[Donate](donate.md)
 
-HELLO WORLD !!!
-
-
-The *Shang writing system* was made of _characters or symbols_, much like the **Egyptian system**. Animal bones and shells called __oracle bones__ held the earliest writings. 
-A _diviner_ was often visited by Shang kings. It was believed that this person would help them *speak to the gods*. They would **touch hot metal sticks to bones** and __shells and the king would read the cracks to find the answer__.
-
-![Image of Ancient China](https://octodex.github.com/images/yaktocat.png)
-
-[GitHub] (http://github.com)
-
-~~Hello everyone~~
+![Black and white photo of handshake](https://i.pinimg.com/originals/2b/1a/c3/2b1ac34f211209e494fffea151ecc5a1.jpg)
