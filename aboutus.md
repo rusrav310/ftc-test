@@ -8,7 +8,7 @@ We are Team First, an FTC community team based in California. Our team’s philo
 
 Here is the overview of the work streams each of the team member focuses on:   
 Rachit: Robot Builder  
-Ishan: Robot Builder
+Ishan: Robot Builder  
 Rushika: Community Outreach and Fundraising  
 Tithi: Programming  
 Abhinav: Programming/ outreach  
