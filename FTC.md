@@ -1,5 +1,5 @@
 [FTC](FTC.md) 
-[About us](about us.md)
+[About us](aboutus.md)
 [Donate](donate.md)
 
 First Tech Challenge:
