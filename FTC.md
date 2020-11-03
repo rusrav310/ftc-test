@@ -1,3 +1,6 @@
+[FTC](FTC.md) 
+[About us](about us.md)
+[Donate](donate.md)
 
 First Tech Challenge:
 
