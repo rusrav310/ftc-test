@@ -1,6 +1,5 @@
 ## [FTC](FTC.md)     [About us](aboutus.md)  [Donate](donate.md) [Team Success Pictures](Successpics.md)
 
-Our third year of FLL at the Championship competition
 
 <img src="https://lh3.googleusercontent.com/AQOiZornrIUfmFafhB7p97rebRVpTHG-5N6_etFr4aiylKZStcRHb8qGEyPGc7B5XEdnquqFwOJ_z5y9M9WUf-EX85JxxGV-yQABAqJvQCEvgC8kZGbkYu_XQkN3m9dtS-43EjYS0qhXEtgnQ4mbfjout7yR9wOFqXvppgQNP2b8pz4YWlGqiTM9MK2sWfdIIEwl1UX2BWwiYY6Q4_sqUsrQZRVbSXrmUVJccHYYJl_Lo-5gUfxTb1uuTB3_fNkRkdtpVA2cPmHuiC6eHfZ4O5JMZYY_V8LD3eUaEcl6LImli_ic_Xv_YTuy-yx291s8F1W9QEhh5dk1_wp0V-aSfj33I-LAXi5iRqul9-lyJLWR0ypi5u-tQBYhE1cuSSL_fYnQ6gyUhGqAjXgXKFvG2_FOBCq2q4MT-VmhhBkZ8FRgHg9jHnebGN9m9b8m3MWxzZywgfRly2g9wuqMnZthSKa8ywC50I8rfUilQ50YaC9b6Z9iAZmQ_r_hC8Q9ZzsOlj-rcBr_-Wd8Iues05azkYAJ8asfP3YPpXfQb9Q20OCVIXWttoA8PKj7ZCKYReVHXok4tMqcZG7ITkEk92UqHdt_mdwvMQnniDPN4lTf1zmO1_w4mgmDM6xCBzBJzbhuK6gnHpoDswq1Rp2Gd9gKDNj7zI5CPeSAtRnxH2igmRHtUrcoBNdSEOJpLUeR=w1776-h1332-no?authuser=2" alt="drawing" width="500"/>   
 
