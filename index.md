@@ -5,4 +5,4 @@
 
 <img src="https://i.pinimg.com/originals/2b/1a/c3/2b1ac34f211209e494fffea151ecc5a1.jpg" alt="drawing" width="500"/>
 
-##<span style="color: -black;">[FTC](FTC.md)     [About us](aboutus.md)  [Donate](donate.md) [Team Success Pictures](Successpics.md)</span>
+## <span style="color: -black;">[FTC](FTC.md)     [About us](aboutus.md)  [Donate](donate.md) [Team Success Pictures](Successpics.md)</span>
