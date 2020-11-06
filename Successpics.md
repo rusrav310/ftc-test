@@ -1,7 +1,4 @@
-[FTC](FTC.md) 
-[About us](aboutus.md)
-[Donate](donate.md)
-[Team Success Pictures](Successpics.md)
+##[FTC](FTC.md)     [About us](aboutus.md)  [Donate](donate.md) [Team Success Pictures](Successpics.md)
 
 Our third year of FLL at the Championship competition
 
